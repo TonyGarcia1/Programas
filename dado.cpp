@@ -5,7 +5,7 @@ using namespace std;
 int LanzarDado();
 int main()
 {
-  cout<<LanzarDado;
+  cout<<LanzarDado();
   return 0;
 }
 int LanzarDado()
